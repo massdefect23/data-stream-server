@@ -1,0 +1,10 @@
+# Ignore build artifacts
+build/
+
+# Ignore .env (to avoid committing secrets)
+.env
+
+# OS / Editor trash
+*.swp
+*.swo
+.DS_Store
